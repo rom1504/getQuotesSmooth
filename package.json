@@ -1,0 +1,15 @@
+{
+  "name": "getQuotesSmooth",
+  "version": "0.0.0",
+  "description": "get quotes from smoothirc.net",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Romain Beaumont <romain.rom1@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^1.4.1",
+    "request": "^2.60.0"
+  }
+}
